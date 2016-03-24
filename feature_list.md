@@ -1,12 +1,12 @@
 # Features of MNotes
-- [] Taking notes in WYSIWYG editor/Markdown editor.
-- [] Add mulitple (thousands) images
-- [] Participants will be added even before meeting and they will be notified via email, sms, calandar entry etc.
-- [] Feature to send the link to meeting notes to any email address/phone. Any number of recipients can be added.
-- [] Action items can be added for any person(based on email address) with some primary and secondary deadlines.
-- [] It will also have basic calendar which will automatically add the action items pending on a particular person.
-- [] People can embed videos(from youtube) or upload video also.
-- [] Every meeting note will have a wiki page linked to it.
-- [] Every meeting note can have multiple sub-notes. Sub-notes are just another/new notes linked to the main note. Sub-notes are required when meeting takes place in succession of some previously occured meeting. 
-- [] Feature to join the meeting on voice/video call which is embeded in the MNotes.
-- [] Standalone small mobile app to join the meeting over voice/video call. Each meeting note has meeting id & password for joining in the meeting. 
+- [ ] Taking notes in WYSIWYG editor/Markdown editor.
+- [ ] Add mulitple (thousands) images
+- [ ] Participants will be added even before meeting and they will be notified via email, sms, calandar entry etc.
+- [ ] Feature to send the link to meeting notes to any email address/phone. Any number of recipients can be added.
+- [ ] Action items can be added for any person(based on email address) with some primary and secondary deadlines.
+- [ ] It will also have basic calendar which will automatically add the action items pending on a particular person.
+- [ ] People can embed videos(from youtube) or upload video also.
+- [ ] Every meeting note will have a wiki page linked to it.
+- [ ] Every meeting note can have multiple sub-notes. Sub-notes are just another/new notes linked to the main note. Sub-notes are required when meeting takes place in succession of some previously occured meeting. 
+- [ ] Feature to join the meeting on voice/video call which is embeded in the MNotes.
+- [ ] Standalone small mobile app to join the meeting over voice/video call. Each meeting note has meeting id & password for joining in the meeting. 
