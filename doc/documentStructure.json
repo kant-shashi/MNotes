@@ -1,0 +1,45 @@
+"mid" {
+
+	"metadata" : {
+		"type" : "meeting_note_type_future"
+		"creation_datetime" : unix_time ,
+		"last_modification_datetime" : unix_time,
+		"project(optional)" : "Project name",
+		"title" : "Meeting to conclude the document structure",
+		"author" : "author@domain.com",
+		"parent_note" : "parent_note_id",
+		"next_meeting_datetime" : unix_time,
+		"linked notes" : [
+			"uid_for_linked_notes",
+			],
+		"tags" : [ "tag1", "tag2", "tag3" ],
+		"annotation" : "string of annotation"
+
+	},
+	"participants" : [
+		"user1@domain.com",
+		"user2@domain.com",
+		"user3@domain.com",
+	],
+	"action_items" : {
+		"action_id1" : {
+			"action" : "______DATA________",
+			"actors" : "actors_email_as_uid",
+			"primary_notification_datetime" : unix_time,
+			"secondary_notification_datetime" :  unix_time,
+			"due_datetime" : unix_time,
+			"done" : boolean,
+			"done_time" : unix_time,
+		},
+		"action_id2" : {
+			"action" : "______DATA________",
+			"actors" : "actors_email_as_uid",
+			"primary_notification_datetime" : date_time,
+			"secondary_notification_datetime" : date_time,
+			"final_notification_datetime" : date_time,
+			"done" : boolean,
+			"done_time" : unix_time,
+		},
+	},
+	"data" : " ______DATA_________"
+}
